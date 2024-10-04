@@ -40,9 +40,6 @@ def converter(args):
     df.Year = df.Year.astype('Int64')
     df = df.rename(columns={"Your Rating": "Rating10", "Const": "imdbID"}) 
     
-    if list_name == 'watchlist':
-        df = df.drop('Rating10', axis=1)
-
     df.to_csv(output_filepath, index=False)
 
     print(f"Exported {len(df)} entries to {output_filepath}")
