@@ -1,0 +1,39 @@
+Ultimate Beastmaster: 
+Sonic Boom: 
+Richie Rich: 
+Stranger Things: Chapter 
+Stranger Things: Stranger Things \d+: Chapter 
+The Big Bang Theory: 
+Malibu Rescue: The Series:  
+Jeopardy!
+Limited Series: 
+The Office \(U\.S\.\): 
+Minecraft: Story Mode: 
+Pac-Man and the Ghostly Adventures: 
+You vs. Wild: 
+Arrow: 
+Awake: The Million Dollar Game: 
+Unbreakable Kimmy Schmidt: 
+Sherlock: 
+Monty Python's Flying Circus: 
+Mr. Iglesias: Part \d:
+Pinky Malinky: Part \d:
+Disenchantment: Part \d:
+Money Heist: Part \d:
+The World's Most Extraordinary Homes: 
+Final Space: 
+Tuca & Bertie: 
+Best.Worst.Weekend.Ever.: 
+The Smurfs: 
+Pokémon The Series: 
+LEGO Ninjago: Masters of Spinjitzu: 
+iZombie: 
+Marvel\'s Daredevil: 
+Beyond Stmanger Things: 
+Marvel\'s Iron Fist: 
+Red vs\. Blue: 
+Supergirl: 
+Superstore: 
+Hoops: 
+Gabriel Fluffy Iglesias: One Show Fits All
+Gabriel lglesias: I’m Sorry For What I Said When I Was Hungry
