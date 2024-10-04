@@ -1,4 +1,4 @@
-# letterboxd-utils
+# letterboxd-import-utils
 This is a repository that includes files that change the format of export data from different services to the [Letterboxd import format](https://letterboxd.com/about/importing-data/).
 
 ### Netflix
